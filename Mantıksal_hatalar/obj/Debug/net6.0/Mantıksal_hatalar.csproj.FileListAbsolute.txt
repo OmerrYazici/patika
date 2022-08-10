@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\bin\Debug\net6.0\Mantıksal_hatalar.exe
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\bin\Debug\net6.0\Mantıksal_hatalar.deps.json
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\bin\Debug\net6.0\Mantıksal_hatalar.runtimeconfig.json
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\bin\Debug\net6.0\Mantıksal_hatalar.dll
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\bin\Debug\net6.0\Mantıksal_hatalar.pdb
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\obj\Debug\net6.0\Mantıksal_hatalar.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\obj\Debug\net6.0\Mantıksal_hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\obj\Debug\net6.0\Mantıksal_hatalar.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\obj\Debug\net6.0\Mantıksal_hatalar.AssemblyInfo.cs
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\obj\Debug\net6.0\Mantıksal_hatalar.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\obj\Debug\net6.0\Mantıksal_hatalar.dll
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\obj\Debug\net6.0\refint\Mantıksal_hatalar.dll
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\obj\Debug\net6.0\Mantıksal_hatalar.pdb
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\obj\Debug\net6.0\Mantıksal_hatalar.genruntimeconfig.cache
+C:\Users\ACER\Desktop\c# 101\Mantıksal_hatalar\obj\Debug\net6.0\ref\Mantıksal_hatalar.dll
